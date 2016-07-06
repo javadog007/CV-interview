@@ -5,7 +5,7 @@ import java.io.UnsupportedEncodingException;
 /**
  * @author 孟洛
  * 
- * 基础
+ * 基础 
  * 
  * 一.面向对象的三大特征并分别阐述
  * 
